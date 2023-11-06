@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-user = &(whoami)
+user = $(whoami)
 
 echo "you are $user";
 
