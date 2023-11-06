@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+user = &(whoami)
+
+if [[ "$user" = "root" ]]; then
+
+echo "you are administrator";
+
+fi
+
