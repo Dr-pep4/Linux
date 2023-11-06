@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+user = &(whoami)
+
+echo "you are $user";
+
+fi
+
